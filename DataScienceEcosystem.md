@@ -1,12 +1,12 @@
-#  01: DataScienceEcosystem.ipynb
+## 01: DataScienceEcosystem.ipynb
 
-# 02 : Data Science Tools and Ecosystem
+## 02 : Data Science Tools and Ecosystem
 
-# 03: Introduction
+## 03: Introduction
 
 #### In this notebook, Data Science Tools and Ecosystem are summarized.
 
-# 04: List Data Science Languages
+## 04: List Data Science Languages
 
 #### Some of the popular languages that Data Scientists use are:
 
@@ -16,7 +16,7 @@
 ##### 02: R
 ##### 03: SQL (Structured Query Language)
 
-# 05: List Data Science Libraries
+## 05: List Data Science Libraries
 
 #### Some of the commonly used libraries used by Data Scientists include:
 
@@ -28,7 +28,7 @@
 
 03: Matplotlib
 
-# 06: Tableof Data Science Tools
+## 06: Tableof Data Science Tools
 
 #### Data Science Tools
 
@@ -61,7 +61,7 @@ print(tabulate(data, headers="firstrow", tablefmt="pipe"))
     | Spyder               |
     
 
-# 07: Introducing Arithmetic Expression 
+## 07: Introducing Arithmetic Expression 
 
 ### Below are a few examples of evaluating arithmetic expressions in Python:
 
@@ -93,7 +93,7 @@ print(b/c)
     5.0
     
 
-# 08: Multiply and Add Numbers
+## 08: Multiply and Add Numbers
 
 ### This a simple arithmetic expression to mutiply then add integers.
 
@@ -121,7 +121,7 @@ print(b/c)
 
 
 
-# 09: Convert minutes to hours
+## 09: Convert minutes to hours
 
 ### This will convert 200 minutes to hours by diving by 60.
 
@@ -135,7 +135,7 @@ print(hours)
     3.3333333333333335
     
 
-# 10: List Objectives
+## 10: List Objectives
 
 ### List popular languages for Data Science
 
